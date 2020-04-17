@@ -1,6 +1,14 @@
 # enigma
 A variation of the enigma machine to encrypt/decrypt strings
 
+---
+#### TL;DR
+- *To see this in action, clone repo and run in localhost.*
+- *Type into textarea on top of page to see the encryption below.*
+- *Use the **SELECT** button to copy the encoded text to the clipboard.*
+- *Use the **ENCODE** button to encode whatever is in the textarea.*
+---
+
 The enigma encryptor works by scrambling letters through a series of rotors that increment once for each character pressed. When one rotor makes a complete revolution the next rotor in the sequence increments one tick.
 
 To understand how the Enigma machine works you can watch a simplified explanation [here](https://www.youtube.com/watch?v=ASfAPOiq_eQ&feature=youtu.be&t=103).
