@@ -1,6 +1,8 @@
 # enigma
 A variation of the enigma machine to encrypt/decrypt strings
 
+(TODO: this should really be a Medium post, but for now I'm just putting it here)
+
 ---
 #### TL;DR
 - *To see this in action, clone repo and run in localhost.*
